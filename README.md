@@ -4,4 +4,4 @@ Período: 1º peíodo
 Curso: Sistema de Informação
 Insttiituição: Unirios
 
-Site Implementado com HTML e CSS, ultilizando a biblioteca  jquery
+Site Implementado com HTML e CSS, ultilizando a biblioteca  Jquery
